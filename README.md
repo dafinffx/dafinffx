@@ -8,7 +8,7 @@ Terima kasih sudah mampir..
 
 ## About Me
 
-- 👨‍💻 All of my projects are available at [https://rizqanaldafin.my.id](https://rizqanaldafin.my.id)
+- 👨‍💻 All of my projects are available at [https://rizqanaldafin.my.id](https://rizqanaldafin.netlify.app)
 - 💬 Ask me about **Mantap kawan**
 
 ## Connect with me:
@@ -20,25 +20,25 @@ Terima kasih sudah mampir..
 
 ## Languages and Tools:
 
-- [Android](https://developer.android.com)
-- [Blender](https://www.blender.org/)
-- [C++](https://www.w3schools.com/cpp/)
-- [C#](https://www.w3schools.com/cs/)
-- [CSS3](https://www.w3schools.com/css/)
-- [Figma](https://www.figma.com/)
-- [Flask](https://flask.palletsprojects.com/)
-- [HTML5](https://www.w3.org/html/)
-- [Illustrator](https://www.adobe.com/in/products/illustrator.html)
-- [Java](https://www.java.com)
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-- [Linux](https://www.linux.org/)
-- [MongoDB](https://www.mongodb.com/)
-- [Node.js](https://nodejs.org)
-- [PHP](https://www.php.net)
-- [Python](https://www.python.org)
-- [React Native](https://reactnative.dev/)
-- [Ruby](https://www.ruby-lang.org/en/)
-- [Unity](https://unity.com/)
+- **Android**
+- **Blender**
+- **C++**
+- **C#**
+- **CSS3**
+- **Figma**
+- **Flask**
+- **HTML5**
+- **Illustrator**
+- **Java**
+- **JavaScript**
+- **Linux**
+- **MongoDB**
+- **Node.js**
+- **PHP**
+- **Python**
+- **React Native**
+- **Ruby**
+- **Unity**
 
 ## Stats
 
