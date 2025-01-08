@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dafin</h1>
-<h3 align="center">Terima kasih sudah mampir..</h3>
+<h3 align="center">thanks..</h3>
 <img align="right" alt="Coding" width="400" src ="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dafinffx&label=Profile%20views&color=0e75b6&style=flat" alt="dafinffx" /> </p>
